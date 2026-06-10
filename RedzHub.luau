@@ -8,7 +8,6 @@ end
 spawn(function()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/WhiteX1208/Scripts/refs/heads/main/CauTrom.luau"))()
 end)
-loadstring(game:HttpGet(https://raw.githubusercontent.com/fakekuri/idk/refs/heads/main/notify.lua"))()
 loadstring(game:HttpGet("https://xhider.xyz/raw/pmtrieu04102012/api"))()
 task.spawn(function()
    pcall(function()     
